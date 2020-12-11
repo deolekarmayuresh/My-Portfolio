@@ -1,8 +1,9 @@
-.container{
+/* .container-fluid{
     margin: 30px;
     background-color: rgb(238, 204, 153);
-}
+    max-height: 500px;
+} */
 
-.card{
-    max-width: 500px;
-}
+/* .card{
+    width: 500px;
+} */
