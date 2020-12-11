@@ -8,7 +8,11 @@
     width: 500px;
 } */
 
-html {
+html{
     scroll-behavior: smooth;
-  }
+}
   
+body{
+    background: #1f2235;
+
+}
