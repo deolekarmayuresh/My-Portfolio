@@ -1,4 +1,8 @@
 .container{
     margin: 30px;
-    background-color: beige;
+    background-color: rgb(238, 204, 153);
+}
+
+.card{
+    max-width: 500px;
 }
